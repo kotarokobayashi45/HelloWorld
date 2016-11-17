@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					980C053F1DDD30E400192289 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = P7NJ9KX3WJ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P7NJ9KX3WJ;
 				INFOPLIST_FILE = HelloWold/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.kotarou.kobayashi.HelloWold;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P7NJ9KX3WJ;
 				INFOPLIST_FILE = HelloWold/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.kotarou.kobayashi.HelloWold;
@@ -297,6 +300,7 @@
 				980C05541DDD30E500192289 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
